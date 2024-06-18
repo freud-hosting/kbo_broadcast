@@ -1,7 +1,3 @@
-streamlit
-pandas
-numpy
-seaborn
-matplotlib.pyplot
-pickle
-plotly.express
+streamlit==1.8.0
+seaborn==0.11.2
+plotly==5.9.0
